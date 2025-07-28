@@ -36,7 +36,8 @@ The business lacked visibility into which customers were high-value, inactive, o
 - Business could now target specific segments for retention and upselling
 
 Dashboard:
-![RFM_Dashboard_28_07](https://github.com/user-attachments/assets/46a1ac5d-46c5-4878-bea5-2085017e59c4)
+![Final_RFM_28_07](https://github.com/user-attachments/assets/c5509818-c99c-4aa8-9b64-d369176b1aa2)
+
 
 
 
